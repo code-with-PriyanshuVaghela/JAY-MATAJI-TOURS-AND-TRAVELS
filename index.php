@@ -1,3 +1,4 @@
+<?php import'./sections/header.php' ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,5 +8,7 @@
 </head>
 <body>
     
+<!-- header section -->
+ <?php include 'sections/header.php'; ?>
 </body>
 </html>
