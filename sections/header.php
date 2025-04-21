@@ -1,5 +1,3 @@
-<?php 
-
 <header class="header" data-header>
 
 <div class="overlay" data-overlay></div>
@@ -109,11 +107,9 @@
 
     </nav>
 
-    <button class="btn btn-primary">Book Now</button>
+    <button class="btn btn-primary">Book Your Trip</button>
 
   </div>
 </div>
 
 </header>
-
-?>
