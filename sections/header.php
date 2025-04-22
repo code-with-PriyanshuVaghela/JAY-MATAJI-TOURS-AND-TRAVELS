@@ -20,7 +20,7 @@
     </a>
 
     <a href="#" class="logo">
-      <img src="./assets/images/logo.svg" alt="Tourly logo">
+      <img src="./assets/images/logo.svg" alt="Jay Mataji logo">
     </a>
 
     <div class="header-btn-group">
