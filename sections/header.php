@@ -19,8 +19,9 @@
 
     </a>
 
-    <a href="#" class="logo">
-      <img src="./assets/images/logo.svg" alt="Jay Mataji logo">
+    <a href="/" class="logo">
+      <img src="/JAY-MATAJI-TOURS-AND-TRAVELS/assets/header-section/Heliotrope-removebg-preview.png" alt="Jay Mataji logo">
+      <!-- <h1> Jay Mataji</h1> -->
     </a>
 
     <div class="header-btn-group">
@@ -84,7 +85,7 @@
         </li>
 
         <li>
-          <a href="#" class="navbar-link" data-nav-link>about us</a>
+          <a href="#about_us" class="navbar-link" data-nav-link>about us</a>
         </li>
 
         <li>
